@@ -1,2 +1,2 @@
 # portfolio
-Portfólio pessoal de desenvolvedor
+Portfólio de desenvolvedor
